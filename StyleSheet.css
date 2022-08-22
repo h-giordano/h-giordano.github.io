@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+ }
+
+
+h1 {
+    color: grey;
+    margin-left: 50px;
+}
+
+h2{
+    color: grey;
+    margin-left:50px;
+}
+
+h3{
+    color: grey;
+    margin-left:50px;
+}
+
+p {
+    color: grey;
+    margin-left: 50px;
